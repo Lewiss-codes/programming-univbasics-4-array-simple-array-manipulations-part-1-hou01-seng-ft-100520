@@ -7,8 +7,8 @@ def using_unshift(array, string)
 end
 
 def using_pop(array)
-  array = ["dog", "cat", "fish", "rabbit", "arrays!"]
-  array_animal = animals.pop 
-  p animals
-  p array_animal
+  array = ["new array", "old array"]
+  n_array = using_pop.pop 
+  p array
+  p n_array
 end
