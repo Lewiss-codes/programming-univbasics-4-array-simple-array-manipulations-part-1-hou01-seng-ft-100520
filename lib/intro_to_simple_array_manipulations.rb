@@ -9,6 +9,8 @@ end
 def using_pop(array)
   a = ["a", "b", "c"]
   
-  a.pop(array)
+  a.pop
+  
+  a
   
 end
