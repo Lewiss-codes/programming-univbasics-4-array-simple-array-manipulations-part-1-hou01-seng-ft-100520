@@ -7,7 +7,7 @@ def using_unshift(array, string)
 end
 
 def using_pop(array)
-  a = ["Antartica", "Boost"]
+  a = "Antartica", "Boost"
   
   a.pop
   
